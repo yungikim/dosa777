@@ -36,7 +36,7 @@ class HelloPage extends StatefulWidget {
 class _HelloPageState extends State<HelloPage> {
 
 
-  String _message = "헬로우 월드";
+  String _message = "헬로우 월드2";
   int _count = 0;
   @override
   Widget build(BuildContext context) {
